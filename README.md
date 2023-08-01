@@ -1,3 +1,3 @@
 # frontEnd-Javascript
-==> Analog Clock
-==> Color Flipper with SASS.
+1. Analog Clock 
+2. Color Flipper with SASS.
