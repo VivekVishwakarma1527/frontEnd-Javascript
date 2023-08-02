@@ -1,0 +1,41 @@
+body{
+    background: #888;
+}
+.container{
+    width: 250px;
+    padding: 50px 20px;
+    border-radius: 10px;
+    background-color: #fff;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    text-align: center;
+    transform: translate(-50%, -50%);
+}
+h1{
+    font-size: 1.1rem;
+    font-weight: 500;
+}
+.content{
+    font-size: 1.4rem;
+}
+.btn{
+padding: 5px;
+border-radius: 5px;
+border: none;
+outline: none;
+transition: 0.3s;
+margin: 5px;
+
+}
+.btn:hover{
+    cursor: pointer;
+    background-color: #9e4e4e92;
+    color: #fff;
+}
+a{
+    text-decoration: none;
+}
+a:hover{
+    outline:none ;
+}
